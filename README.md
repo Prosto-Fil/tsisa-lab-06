@@ -14,4 +14,4 @@
 
 Результат работы программы представлен на скриншоте:
 
-![lab-06_Part1](https://github.com/Prosto-Fil/tsisa-lab-06/blob/master/screenshots/Part1.png
+![lab-06_Part1].(https://github.com/Prosto-Fil/tsisa-lab-06/blob/master/screenshots/Part1.png
